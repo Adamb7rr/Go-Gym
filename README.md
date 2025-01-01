@@ -1,1 +1,1 @@
-# Go-Gym
+# GO-GYM
